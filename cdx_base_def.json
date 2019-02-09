@@ -101,6 +101,10 @@
           "type": "string",
           "describes": "Owner's Name"
         },
+        "name1": {
+          "type": "string",
+          "describes": "Owner's Name"
+        },
         "website": {
           "type": "string",
           "format": "uri"
