@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "describes": "Base schema of catalogue entries",
+  "type": "object",
+  "properties": {
+    "id1": {
+      "type": "string",
+      "describes": "unique identifier of the data resource within this domain"
+    },
+  "required": [
+    "id1"
+  ]
+}
